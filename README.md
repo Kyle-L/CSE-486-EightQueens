@@ -1,7 +1,11 @@
 ## Eight of Queens <!-- omit in toc -->
+[![Eight Queens](docs/header.svg)]
+[![Run on Repl.it](https://repl.it/badge/github/Kyle-L/CSE-486-EightQueens)](https://repl.it/github/Kyle-L/CSE-486-EightQueens)
 
+## Table of Contents <!-- omit in toc -->
 - [Overview](#overview)
 - [Pseudocode](#pseudocode)
+- [Sample Input](#sample-input)
 - [References](#references)
 
 ## Overview
@@ -16,6 +20,46 @@ function MIN-CONFLICTS(max_steps) returns a solution or failure
    min-column ← the column that minimizes the conflicts and is different from the column the queen is currently.
    move conflict-queen to the min-column.
  return failure
+```
+
+## Sample Input
+```
+The starting board...
+Q |   |   |   |   |   |   |  
+------------------------------
+  |   |   |   |   |   | Q |  
+------------------------------
+  |   |   |   |   |   | Q |  
+------------------------------
+  |   |   |   |   |   | Q |  
+------------------------------
+  |   |   | Q |   |   |   |  
+------------------------------
+  |   |   |   |   |   |   | Q
+------------------------------
+Q |   |   |   |   |   |   |  
+------------------------------
+  |   |   |   |   | Q |   |  
+```
+
+```
+The solved board...
+
+  | Q |   |   |   |   |   |  
+------------------------------
+  |   |   |   |   |   |   | Q
+------------------------------
+  |   |   |   |   | Q |   |  
+------------------------------
+Q |   |   |   |   |   |   |  
+------------------------------
+  |   | Q |   |   |   |   |  
+------------------------------
+  |   |   |   | Q |   |   |  
+------------------------------
+  |   |   |   |   |   | Q |  
+------------------------------
+  |   |   | Q |   |   |   |
 ```
 
 ## References

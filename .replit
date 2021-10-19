@@ -1,0 +1,2 @@
+language = "java10"
+run = "javac EightQueens/src/*.java -d EightQueens/bin && java -cp EightQueens/bin EightQueensTester"
