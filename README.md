@@ -63,5 +63,14 @@ Q |   |   |   |   |   |   |
   |   |   | Q |   |   |   |
 ```
 
+# Remote Setup
+If you would like to run the project, you can use the online IDE Repl.it!
+
+Simply select the following badge or visit the following link: [https://repl.it/github/Kyle-L/CSE-486-EightQueens](https://repl.it/github/Kyle-L/CSE-486-EightQueens)
+
+[![Run on Repl.it](https://repl.it/badge/github/Kyle-L/CSE-486-EightQueens)](https://repl.it/github/Kyle-L/CSE-486-EightQueens)
+
+Once, it has opened, all you need do is select run!
+
 ## References
 [1] “Eight queens puzzle,” Wikipedia. Oct. 18, 2021. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Eight_queens_puzzle&oldid=1050602922
