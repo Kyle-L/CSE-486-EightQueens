@@ -68,8 +68,6 @@ If you would like to run the project, you can use the online IDE Repl.it!
 
 [![Run on Repl.it](https://repl.it/badge/github/Kyle-L/Eight-Queens-Solver)](https://repl.it/github/Kyle-L/Eight-Queens-Solver)
 
-[![Run on Repl.it](https://repl.it/badge/github/Kyle-L/CSE-486-EightQueens)](https://repl.it/github/Kyle-L/Eight-Queens-Solver)
-
 Once, it has opened, all you need do is select run!
 
 ## References
