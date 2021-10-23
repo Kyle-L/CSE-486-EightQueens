@@ -1,7 +1,7 @@
 ## Eight of Queens <!-- omit in toc -->
 ![Eight Queens](docs/header.svg)
 
-[![Run on Repl.it](https://repl.it/badge/github/Kyle-L/CSE-486-EightQueens)](https://repl.it/github/Kyle-L/CSE-486-EightQueens)
+[![Run on Repl.it](https://repl.it/badge/github/Kyle-L/Eight-Queens-Solver)](https://repl.it/github/Kyle-L/Eight-Queens-Solver)
 
 ## Table of Contents <!-- omit in toc -->
 - [Overview](#overview)
@@ -66,9 +66,9 @@ Q |   |   |   |   |   |   |
 # Remote Setup
 If you would like to run the project, you can use the online IDE Repl.it!
 
-Simply select the following badge or visit the following link: [https://repl.it/github/Kyle-L/CSE-486-EightQueens](https://repl.it/github/Kyle-L/CSE-486-EightQueens)
+[![Run on Repl.it](https://repl.it/badge/github/Kyle-L/Eight-Queens-Solver)](https://repl.it/github/Kyle-L/Eight-Queens-Solver)
 
-[![Run on Repl.it](https://repl.it/badge/github/Kyle-L/CSE-486-EightQueens)](https://repl.it/github/Kyle-L/CSE-486-EightQueens)
+[![Run on Repl.it](https://repl.it/badge/github/Kyle-L/CSE-486-EightQueens)](https://repl.it/github/Kyle-L/Eight-Queens-Solver)
 
 Once, it has opened, all you need do is select run!
 
