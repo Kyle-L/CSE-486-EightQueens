@@ -1,5 +1,4 @@
-## Eight of Queens <!-- omit in toc -->
-![Eight Queens](docs/header.svg)
+![Eight Queens](docs/header.png)
 
 [![Run on Repl.it](https://repl.it/badge/github/Kyle-L/Eight-Queens-Solver)](https://repl.it/github/Kyle-L/Eight-Queens-Solver)
 
